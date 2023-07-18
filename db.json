@@ -1,0 +1,155 @@
+{
+  "seller": [
+    {
+      "name": "Pratiksha",
+      "email": "abc@123",
+      "Password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Snehal Mam",
+      "email": "abc@1234",
+      "Password": "abc@1234",
+      "id": 2
+    },
+    {
+      "name": "Priya",
+      "password": "abc@1235",
+      "email": "abc@1235",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "password": "abc@1236",
+      "email": "abc@1236",
+      "id": 4
+    },
+    {
+      "name": "def",
+      "password": "abc@1237",
+      "email": "abc@1237",
+      "id": 5
+    },
+    {
+      "name": "ghi",
+      "password": "abc@1238",
+      "email": "abc@1238",
+      "id": 6
+    },
+    {
+      "name": "qwe",
+      "password": "abc@123",
+      "email": "asff@gmail.com",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung",
+      "price": "10000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "Samsung New Mobile",
+      "image": "https://m.media-amazon.com/images/I/51-dl8FXNAL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 1
+    },
+    {
+      "name": "HP New",
+      "price": "59000",
+      "color": "Grey",
+      "category": "Laptop",
+      "description": "HP Laptop",
+      "image": "https://planettelecom.in/image/cache/catalog/laptop/download%20(1)-300x300.jpg",
+      "id": 2
+    },
+    {
+      "name": "MAC",
+      "price": "230500",
+      "color": "Grey",
+      "category": "Laptop",
+      "description": "MAC Laptop",
+      "image": "https://m.media-amazon.com/images/I/31aPzW9atKL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 4
+    },
+    {
+      "name": "RealMe",
+      "price": "14000",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "RealMe Blue mobile",
+      "image": "https://planettelecom.in/image/cache/catalog/nokia/133071-v5-nokia-3.2-mobile-phone-large-1-300x300.jpg",
+      "id": 5
+    },
+    {
+      "name": "Apple",
+      "price": "12000",
+      "color": "White",
+      "category": "Mobile",
+      "description": "Apple Letest  mobile.....................",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 6
+    },
+    {
+      "name": "Nokia",
+      "price": "12000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "Nokia  New One mobile.....................",
+      "image": "https://planettelecom.in/image/cache/catalog/nokia/41Pp-N3d2mL-300x300.jpg",
+      "id": 7
+    },
+    {
+      "name": "One Plus",
+      "price": "25000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "One +  New One mobile.....................",
+      "image": "https://planettelecom.in/image/cache/catalog/nokia/nokia-8-1-na-original-imafcynvmaugfgvb-300x300.jpeg",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "Pratiksha",
+      "email": "abc@123",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Snehal Mam",
+      "email": "snehal@123",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "email": "abc@1234",
+      "password": "abc@123",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "MAC",
+      "price": "230500",
+      "color": "Grey",
+      "category": "Laptop",
+      "description": "MAC Laptop",
+      "image": "https://m.media-amazon.com/images/I/31aPzW9atKL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 1,
+      "productId": 4,
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 69100,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
